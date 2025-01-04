@@ -21,7 +21,11 @@ SETUP
 USAGE
 
 1- Run the application.
+
 2- Enter the base currency (e.g., USD).
+
 3- Enter the target currency (e.g., EUR).
+
 4- Enter the amount to convert.
+
 5- The application will display the converted amount in the target currency.
