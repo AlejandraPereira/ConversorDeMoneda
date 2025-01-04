@@ -4,6 +4,7 @@ This project is a currency converter developed in Java that allows you to conver
 
 Requirements
 Java 17 or higher.
+
 Internet connection to access the ExchangeRate-API.
 
 Setup
