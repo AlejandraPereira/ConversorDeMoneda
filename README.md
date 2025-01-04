@@ -4,9 +4,9 @@ This project is a currency converter developed in Java that allows you to conver
 
 REQUIREMENTS 
 
-Java 17 or higher.
+- Java 17 or higher.
 
-Internet connection to access the ExchangeRate-API.
+- Internet connection to access the ExchangeRate-API.
 
 SETUP
 
@@ -20,8 +20,8 @@ SETUP
 
 USAGE
 
-Run the application.
-Enter the base currency (e.g., USD).
-Enter the target currency (e.g., EUR).
-Enter the amount to convert.
-The application will display the converted amount in the target currency.
+1- Run the application.
+2- Enter the base currency (e.g., USD).
+3- Enter the target currency (e.g., EUR).
+4- Enter the amount to convert.
+5- The application will display the converted amount in the target currency.
