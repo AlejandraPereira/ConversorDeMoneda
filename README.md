@@ -1,5 +1,7 @@
 Currency Converter in Java
 
+Java OOP Challenge by Oracle One course offered by Alura Latam
+
 This project is a currency converter developed in Java that allows you to convert different currencies using an exchange rate API. It utilizes Object-Oriented Programming (OOP) principles for a modular and maintainable design and employs the Gson library for handling JSON data.
 
 REQUIREMENTS 
